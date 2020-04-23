@@ -3,7 +3,7 @@ import { shade } from 'polished';
 
 export const Title = styled.h1`
   font-size: 48px;
-  color: #c2c2c2;
+  color: #3a3a3a;
   max-width: 450px;
   line-height: 56px;
 
@@ -21,8 +21,8 @@ export const Form = styled.form`
     padding: 0 24px;
     border: 0;
     border-radius: 5px 0 0 5px;
-    background-color: #333;
-    color: #c2c2c2;
+    background-color: #fff;
+    color: #3a3a3a;
 
     &::placeholder {
       color: #a8a8b3;
@@ -50,7 +50,7 @@ export const Repositories = styled.div`
   max-width: 700px;
 
   a {
-    background: #333;
+    background: #fff;
     border-radius: 5px;
     width: 100%;
     padding: 24px;
@@ -80,7 +80,7 @@ export const Repositories = styled.div`
 
       strong {
         font-size: 20px;
-        color: #ffffff;
+        color: #3d3d4d;
       }
       p {
         font-size: 18px;
