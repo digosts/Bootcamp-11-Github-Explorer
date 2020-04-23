@@ -19,7 +19,7 @@ const Dashboard: React.FC = () => {
       <Repositories>
         <a href="teste">
           <img
-            src="https://avatars0.githubusercontent.com/u/55156476?s=460&u=a4ce1d47e4ab2aed4888935a7ecf0948cf10002a&v=4"
+            src="https://cdn.discordapp.com/avatars/669162499211264021/f1d7f5441c24874c1981fbe44f0bee93?size=512"
             alt="Rodrigo Santos"
           />
           <div>
@@ -32,7 +32,7 @@ const Dashboard: React.FC = () => {
 
         <a href="teste">
           <img
-            src="https://avatars0.githubusercontent.com/u/55156476?s=460&u=a4ce1d47e4ab2aed4888935a7ecf0948cf10002a&v=4"
+            src="https://cdn.discordapp.com/avatars/669162499211264021/f1d7f5441c24874c1981fbe44f0bee93?size=512"
             alt="Rodrigo Santos"
           />
           <div>
@@ -45,7 +45,7 @@ const Dashboard: React.FC = () => {
 
         <a href="teste">
           <img
-            src="https://avatars0.githubusercontent.com/u/55156476?s=460&u=a4ce1d47e4ab2aed4888935a7ecf0948cf10002a&v=4"
+            src="https://cdn.discordapp.com/avatars/669162499211264021/f1d7f5441c24874c1981fbe44f0bee93?size=512"
             alt="Rodrigo Santos"
           />
           <div>
